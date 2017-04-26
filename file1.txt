@@ -1,0 +1,9 @@
+they have to change to many node 
+Is applicable to chenge to the many ways
+many more then to the origina
+git init
+git status
+git add
+git commit
+its create new line 
+
